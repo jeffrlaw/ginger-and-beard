@@ -15,7 +15,9 @@ Within the Github for Mac app, we clone the branch/repo to our Desktop (apparent
 
 We then installed Jekyll locally. We want a local install so that we can develop locally, see bugs, before committing and pushing live.
 
+{% highlight ruby %}
 sudo gem install jekyll
+{% endhighlight %}
 
 We then ask jekyll to create a new site to the same Desktop folder.
 
