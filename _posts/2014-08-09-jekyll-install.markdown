@@ -5,8 +5,6 @@ date:   2014-08-09 01:01:27
 categories: jekyll update
 ---
 
-# How we set up Jekyll
-
 ## 1. Github setup
 
 First we created a repo.
