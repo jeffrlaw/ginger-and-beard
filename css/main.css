@@ -188,13 +188,20 @@ a:visited { color: #205caa; }
 
 .post-content h1 {
   line-height: 1.2;
-  font-size: 2em;
+  font-size: 2.25em;
   font-weight: bold;
   font-family: "Helvetica Neue", Helvetica, Arial, freesans, sans-serif;
 }
 
 
-.post-content h2,
+.post-content h2 {
+  .post-content h1 {
+  line-height: 1.2;
+  font-size: 1.75em;
+  font-weight: bold;
+  font-family: "Helvetica Neue", Helvetica, Arial, freesans, sans-serif;
+}
+}
 .post-content h3,
 .post-content h4,
 .post-content h5,
